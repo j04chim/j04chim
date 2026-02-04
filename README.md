@@ -1,7 +1,7 @@
 # read.me
 
 > [!WARNING]
-> I do not use Github. You can find all my repositories on my server: https://meowf.fr/forge/joachim.
+> I do not use Github. You can find my projects on my server: https://meowf.fr/forge/joachim.
 
 Hoi, I type words into text files, and the computer does things. Most of the stuff I do is theoretical, and I do not often put it into practice. Most of the code here was hastily put together to test random ideas.
 
