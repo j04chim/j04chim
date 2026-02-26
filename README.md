@@ -11,3 +11,5 @@ Hoi, I type words into text files, and the computer does things. Most of the stu
 ## Random stuff
 - *Undyne Programming Language*, [esolangs.org](https://esolangs.org/wiki/Undyne_Programming_Language)
 - *Incendie*, [jetsdencre.univ-lyon1.fr](https://jetsdencre.univ-lyon1.fr/nouvelles/concours/jets-dencre-2025/incendie-joachim-rey)
+
+<img src="https://meowf.fr/api/pv">
